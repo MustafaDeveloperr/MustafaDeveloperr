@@ -41,7 +41,7 @@
 
 <br/>
 
-> **Selam! Ben Muhammed Mustafa AYDOĞAN.** Full Stack Developer olarak projeler geliştiriyorum. Tüm eski projelerimi arkada bırakıp yepyeni projelere yelken açtım. Yakında **FotoQR** ve benzeri birçok yeni projemi burada **Open Source (Açık Kaynak)** olarak yayınlayacağım! Takipte kalın. 🔥
+> **Selam! Ben Muhammed Mustafa AYDOĞAN.** Full Stack Developer olarak projeler geliştiriyorum.
 
 ---
 
