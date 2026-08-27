@@ -1,73 +1,74 @@
 <div align="center">
 
-# 👋 Merhaba, Ben Mustafa
+<img src="https://www.image2url.com/r2/default/gifs/1787834444097-52d2edba-e8ec-413b-be79-4c53324c4138.gif" width="100vh" alt="Demo">
 
-### 💻 Full Stack Developer
-### 📱 Mobil Geliştirici
-### 🚀 Yeni projeler geliştiriyorum.
 
-<a href="https://github.com/MustafaDeveloperr" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-MustafaDeveloperr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
+# Mustafa
+
+**Full Stack Developer · Android Developer**
+
+Web teknolojileri, Android ve açık kaynak projeler üzerine çalışıyorum.
+
+<a href="https://github.com/MustafaDeveloperr">
+  <img src="https://img.shields.io/badge/GitHub-MustafaDeveloperr-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-
-<br><br>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MustafaDeveloperr&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MustafaDeveloperr&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=MustafaDeveloperr&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MustafaDeveloperr&theme=tokyo-night" alt="Contribution Graph"/>
-</p>
 
 </div>
 
----
-
-# 🚀 Hakkımda
-
-- 💻 Full Stack Developer
-- 🌐 Web Geliştirme
-- 📱 Android Geliştirme
-- 🐧 Linux Kullanıcısı
-- ⚡ Açık kaynak projeler geliştiriyorum.
-
----
-
-# 🛠️ Teknolojiler
-
-<p align="left">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-
+<p align="center">
+  <img
+    src="https://camo.githubusercontent.com/cb2bbbea377fb78edea107c4256df927eeffeea1dc5b67856a0a736db9dbe4dc/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d3f757365723d4d757374616661446576656c6f70657272267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565"
+    alt="GitHub Streak"
+  />
 </p>
 
 ---
 
-Gizli bir repoda sessizce çalışıyorum zamanı geldiğinde open source yapacağım 😶
+## 👨‍💻 Hakkımda
 
-# 📫 İletişim
+* 💻 Full Stack geliştirme
+* 📱 Android uygulama geliştirme
+* 🌐 Web teknolojileri
+* 🐧 Linux
+* ⚡ Açık kaynak projeler
 
-- GitHub: https://github.com/MustafaDeveloperr
-- E-posta: <a href="mailto:mustfa966o@gmail.com">mustfa966o@gmail.com</a>
+Yeni teknolojiler öğreniyor, fikirleri gerçek projelere dönüştürüyorum.
 
 ---
 
+## 🛠️ Teknolojiler
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+
+</p>
+
+
+---
+
+## 🔒 Currently Working On
+
+Gizli bir repoda sessizce çalışıyorum.
+
+Zamanı geldiğinde open source yapacağım. 😶
+
+---
+
+## 📫 İletişim
+
+**Email:** [mustfa966o@gmail.com](mailto:mustfa966o@gmail.com)
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=MustafaDeveloperr&style=for-the-badge&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=MustafaDeveloperr&style=flat-square" alt="Profile Views">
 
 </div>
